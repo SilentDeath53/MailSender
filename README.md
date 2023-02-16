@@ -1,0 +1,2 @@
+# MailSender
+A mail sender
