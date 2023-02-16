@@ -1,2 +1,2 @@
 # MailSender
-A mail sender
+ALL RIGHTS RESERVED BY SilentDeath53
