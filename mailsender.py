@@ -12,8 +12,8 @@ smtp_connection.starttls()
 smtp_connection.login(smtp_username, smtp_password)
 
 # Mesajın gönderileceği adresler belirleniyor
-to_address = 'targetmail@gmail.com'
-from_address = 'from@gmail.com'
+to_address = 'targetmail@gmail.com' # "targetmail@gmail.com, targetmail2@gmail.com"
+from_address = 'from@gmail.com' # A Google acc that you want to set as a mailer
 
 # Mesaj içeriği oluşturuluyor
 message = MIMEMultipart()
